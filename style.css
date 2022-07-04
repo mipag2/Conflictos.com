@@ -1,0 +1,19 @@
+footer button {background-color:#EE9323;}
+body {
+    color:#333333;
+    background: #003973;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right,  #003973, #E5E5BE);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #003973, #E5E5BE ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+text {
+    color: rgb(255, 255, 255);
+    
+}
+h1,h2 {
+    text-align: center;
+    
+}
+h6 {
+    text-decoration-color: #6E6E6E;
+}
